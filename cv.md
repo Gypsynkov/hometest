@@ -1,4 +1,6 @@
-##Hello
+# Hello! #
+
+
 My name is Mikhail Tikhankou. I was born in Bobruisk. I am 24 years old. I worked  as a software engineer in the automation department. At this time, I work as an engineer in the communications department. All the time I worked with controller programming, and programming is an interesting activity for me, and I want to grow further in this. Recently, I have been studying web programming as a hobby on my own, and having learned about RS, I want to try myself here. I hope that by making an effort, I will find myself in this direction.
 
 
