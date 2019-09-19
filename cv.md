@@ -1,9 +1,15 @@
-My name is Mikhail Tsyhankou.
+##Hello
+My name is Mikhail Tikhankou. I was born in Bobruisk. I am 24 years old. I worked  as a software engineer in the automation department. At this time, I work as an engineer in the communications department. All the time I worked with controller programming, and programming is an interesting activity for me, and I want to grow further in this. Recently, I have been studying web programming as a hobby on my own, and having learned about RS, I want to try myself here. I hope that by making an effort, I will find myself in this direction.
+
+
 You can contact me in the following ways:
-  -My phone number: +375291464567
-  -My email: mambakla@gmail.com or gypsynkov@yandex.com
-  -Telegram : @Gypsynkov
+  * My phone number: +375291464567
+  * My email: mambakla@gmail.com or gypsynkov@yandex.com
+  * Telegram : @Gypsynkov
   
   
-I am 24 years old. I am an electrical engineer by profession, but have more than 2 years of experience as a software engineer in industry. 
-But over time, I realized that web programming was more interesting to me, and I decided to relearn it myself. Having been doing this for more than six months, I discovered this course, and decided that this was a great opportunity for me to learn and apply knowledge immediately. I am well acquainted with LAD programming. I understand databases and SQL. I have a certificate of completion of ABAP courses in the SAP system. There is basic knowledge of HTML, CSS, JS, Photoshop, git. All my programming experience has been training courses and sites like freecodecamp and codeacademy or htmlacademy. I graduated from BNTU with a degree in electrical engineering and graduated from SAP ABAP courses at LeverX. I have Pre-Intermediate (A2) English level.
+I am an electrical engineer by profession and for more than 2 years I worked as a software engineer in the mining industry.
+I was engaged in programming on LAD. I understand databases and SQL. I have basic knowledge of HTML, CSS and a bit in JS, Photoshop, Git. All my programming experience has been on training courses and sites like freecodecamp and codeacademy or htmlacademy.
+I have a higher education, I graduated from the Belarusian National Technical University, Faculty of Information Technology and Robotics.
+I have a certificate of completion of ABAP courses in the SAP system. 
+I have an intermediate level of English (A2)(have a certificate).
