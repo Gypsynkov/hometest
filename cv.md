@@ -3,9 +3,9 @@ You can contact me in the following ways:
 My phone number: +375291464567
 -My email: mambakla@gmail.com or gypsynkov@yandex.com
 -Telegram : @Gypsynkov
-I am 24 years old. I am an electrical engineer by profession, but have more than 2 years of experience as a software engineer in industry.
-    But over time, I realized that web programming was more interesting to me, and I decided to relearn it myself.
-    Having been doing this for more than six months, I discovered this course, and decided that this was a great opportunity
+I am 24 years old. I am an electrical engineer by profession, but have more than 2 years of experience as a software engineer in industry. 
+But over time, I realized that web programming was more interesting to me, and I decided to relearn it myself.
+Having been doing this for more than six months, I discovered this course, and decided that this was a great opportunity
     for me to learn and apply knowledge immediately.
     I am well acquainted with LAD programming.
     I understand databases and SQL.
