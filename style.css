@@ -1,0 +1,49 @@
+body{
+    max-width: 1300px;
+    max-height: 1847px;
+  
+}
+.wrapper{
+background-image: url('F:/img/Layer\ 20.png');
+background-color: green;
+width: 1300px;
+height: 565px;
+background-size: cover; 
+}
+.header {
+    height: 170px;
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+}
+.logo{
+    margin-left: 232px;
+    margin-top: 60px;
+    margin-bottom: 78px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+
+font-family: "Lucida Sans";
+font-style: italic;
+
+}
+.navbar{
+    margin: 90px 140px;
+    width: 453px;
+    height: 41px;
+    background-image: linear-gradient(0deg, #f5c505 0%, #f5c505 100%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.nav{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.nav img{
+    
+
+}
